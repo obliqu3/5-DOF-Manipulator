@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# ROS 2 build/install/log files (if colcon build is run)
+build/
+install/
+log/
+
+# Arduino build artifacts
+*.hex
+*.elf
+*.o
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
