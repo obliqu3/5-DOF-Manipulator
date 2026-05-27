@@ -28,7 +28,3 @@ The arm consists of 5 independent joints that mimic a human-like manipulator:
 The system provides a Teleop terminal interface via ROS 2 to control the 5-DOF arm. You can step the joints incrementally and monitor the current angles of the Base, Shoulder, Elbow, Wrist, and Gripper in real-time.
 
 ![Control Terminal](docs/images/control_terminal.png)
-
-## Getting Started
-
-*(Documentation on installation, setup, and running the code can be added here.)*
